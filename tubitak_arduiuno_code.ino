@@ -23,19 +23,21 @@ float expected_DAC_Vout = (183/152000)*Set_DAC_Vout;
 float low_expected_DAC_Vout = ((183/152000)*Set_DAC_Vout)-0.1;
 float high_expected_DAC_Vout = ((183/152000)*Set_DAC_Vout)+0.1;
 
-
+// CONNECTION OF LCD TO PINS
 // LCD Variables. Check out this blog post https://toptechboy.com/arduino-tutorial-48-connecting-and-using-an-lcd-display/
 int rs=7;
 int en=8;
 int d4=9;
 int d5=6;
-int d6=11; // 11, 5
+int d6=11;
 int d7=12;
 LiquidCrystal lcd(rs,en,d4,d5,d6,d7); 
 
-
+// VARIABLE TO CHECK FOR THE VOLTAGE AT THREE POINTS.
 bool all_passed;
 int number_of_warns = 1;
+
+// MESSAGES TO DISPLAY ON LCD
 String Welcome = "tDCS stimulation starts in...";
 String stimulationMessage = "Active hdTDCs....";
 String afterStimulation = "Stimulation Done!";
