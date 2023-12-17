@@ -5,9 +5,12 @@ Circiut design showing major componets and functionality.
 High Difinition Transcranial Direct Current Stimulation basically is the idea of passing direct current (usually 2mA) through electrodes through the skull to enhance(polarise) or suppress(hyperpolarise) brain activity.
 This project was aimed at designing and constructing a functional hd-TDCS device for the potential treatment of derug resistant epilepsy.
 ## What is TDCS
+hjbjhvjbh
 
 ## Wwhat is hd-TDCS
+jbbukb
 
+jnkn
 ## Advantages of hd-TDCS
 
 ## Circuit description and function
