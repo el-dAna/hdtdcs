@@ -15,7 +15,7 @@ This project was aimed at designing and constructing a functional hd-TDCS device
 ## Circuit description and function
 #### Falstad simulation
 The insert below is a screen shot of the main function of the circuit on falstad. It shows the major components: 9V DC voltage source, 12bit DAC and transistors. We implemeented a 6 electrode hd-TDCS (1 anode+ and 5 cathodes-) for the potential application in the treatment of drug resistant focal epilepsy. The point at which the 6 wires meet is the practical position of the head. As shown, current through the cathodes is 2mA and total current through anode is 10mA approx. 
-<div><img width="600" height='300' alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/13396a92-639d-459b-9cb6-50d0206788a3"></div>
+<div><img width="500" height='300' alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/13396a92-639d-459b-9cb6-50d0206788a3"></div>
 
 #### Lab implementation
 The image below is the soldered version in the lab. We verified the output volage from the DAC to the bases of the transistors. Practically the input DC voltage should be kept at 9V so we included a 9V regulator and supplied >9V.
