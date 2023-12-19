@@ -19,11 +19,11 @@ The insert below is a screen shot of the main function of the circuit on falstad
 
 #### Lab implementation
 The image below is the soldered version in the lab. We verified the output volage from the DAC to the bases of the transistors. Practically the input DC voltage should be kept at 9V so we included a 9V regulator and supplied >9V.
-<div><img width="600" height='200' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_132242.jpg"></div>
+<div><img width="400" height='200' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_132242.jpg"></div>
 
 #### Final prototype case
 The case is to contain the circuit board, microcontroller and voltage source. Side ports included for easy plugging of microcontroller to computer for easy debugging. 
-<div><img width="600" height='200' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_131836.jpg"></div>
+<div><img width="400" height='200' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_131836.jpg"></div>
 
 ## AutoCad Designs
 
