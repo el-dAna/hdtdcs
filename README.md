@@ -16,6 +16,8 @@ jnkn
 ## Circuit description and function
 
 ## AutoCad Designs
+<img width="629" alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/eeg_cap_with_electrodes.jpg">
+
 
 ## Contributors
 
