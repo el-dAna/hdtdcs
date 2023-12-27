@@ -29,8 +29,10 @@ This project was aimed at designing and constructing a functional hd-TDCS device
 </div>
 <div class="row">
   <div class="col-md-6">
+    dfaffadfcdaf
     </div>
   <div class="col-md-6">
+    adfadfafafasdfadf 
     </div>
 </div>
 #### Final prototype case
