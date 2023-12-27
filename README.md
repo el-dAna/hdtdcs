@@ -26,15 +26,36 @@ This project was aimed at designing and constructing a functional hd-TDCS device
       <p>The image below is the soldered version in the lab. We verified the output volage from the DAC to the bases of the transistors. Practically the input DC voltage should be kept at 9V so            we       included a 9V regulator and supplied >9V.</p>
     <img width="400" height='400' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_132242.jpg">
   </div>
+<html>
+<style>
+div {
+  width:30%;  
+  display:inline-block;
+}
+</style>
+<body>
+
+<div style="background-color:#FFF4A3;">
+  <h2>London</h2>
+  <p>London is the capital city of England.</p>
+  <p>London has over 13 million inhabitants.</p>
 </div>
-<div class="row">
-  <div class="col-md-6">
-    dfaffadfcdaf
-    </div>
-  <div class="col-md-6">
-    adfadfafafasdfadf 
-    </div>
+
+<div style="background-color:#FFC0C7;">
+  <h2>Oslo</h2>
+  <p>Oslo is the capital city of Norway.</p>
+  <p>Oslo has over 600.000 inhabitants.</p>
 </div>
+
+<div style="background-color:#D9EEE1;">
+  <h2>Rome</h2>
+  <p>Rome is the capital city of Italy.</p>
+  <p>Rome has almost 3 million inhabitants.</p>
+</div>
+
+</body>
+</html>
+
 #### Final prototype case
 The case is to contain the circuit board, microcontroller and voltage source. Side ports included for easy plugging of microcontroller to computer for easy debugging. 
 <div><img width="400" height='400' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_131836.jpg"></div>
