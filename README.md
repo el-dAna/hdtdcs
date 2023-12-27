@@ -13,48 +13,15 @@ This project was aimed at designing and constructing a functional hd-TDCS device
 ## Advantages of hd-TDCS
 
 ## Circuit description and function
-<div class="row">
-  <div class=""col-lg-6"">
-    <p>
-      #### Falstad simulation
-      The insert below is a screen shot of the main function of the circuit on falstad. It shows the major components: 9V DC voltage source, 12bit DAC and transistors. We implemeented a 6              electrode hd-TDCS (1 anode+ and 5 cathodes-) for the potential application in the treatment of drug resistant focal epilepsy. The point at which the 6 wires meet is the practical position         of the head. As shown, current through the cathodes is 2mA and total current through anode is 10mA approx. 
-    </p>
-    <img width="500" height='300' alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/13396a92-639d-459b-9cb6-50d0206788a3">
-  </div>
-  <div class="col-lg-6">
-    #### Lab implementation
-      <p>The image below is the soldered version in the lab. We verified the output volage from the DAC to the bases of the transistors. Practically the input DC voltage should be kept at 9V so            we       included a 9V regulator and supplied >9V.</p>
-    <img width="400" height='400' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_132242.jpg">
-  </div>
-<html>
-<style>
-div {
-  width:30%;  
-  display:inline-block;
-}
-</style>
-<body>
 
-<div style="background-color:#FFF4A3;">
-  <h2>London</h2>
-  <p>London is the capital city of England.</p>
-  <p>London has over 13 million inhabitants.</p>
-</div>
+#### Falstad simulation
+The insert below is a screen shot of the main function of the circuit on falstad. It shows the major components: 9V DC voltage source, 12bit DAC and transistors. We implemeented a 6 electrode hdTDCS (1 anode+ and 5 cathodes-) for the potential application in the treatment of drug resistant focal epilepsy. The point at which the 6 wires meet is the practical position of the head. As shown, current through the cathodes is 2mA and total current through anode is 10mA approx. 
+<div><img width="500" height='300' alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/13396a92-639d-459b-9cb6-50d0206788a3"></div>
 
-<div style="background-color:#FFC0C7;">
-  <h2>Oslo</h2>
-  <p>Oslo is the capital city of Norway.</p>
-  <p>Oslo has over 600.000 inhabitants.</p>
-</div>
+#### Lab implementation
+The image below is the soldered version in the lab. We verified the output volage from the DAC to the bases of the transistors. Practically the input DC voltage should be kept at 9V so we included a 9V regulator and supplied >9V.
+<div><img width="400" height='400' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_132242.jpg"></div>
 
-<div style="background-color:#D9EEE1;">
-  <h2>Rome</h2>
-  <p>Rome is the capital city of Italy.</p>
-  <p>Rome has almost 3 million inhabitants.</p>
-</div>
-
-</body>
-</html>
 
 #### Final prototype case
 The case is to contain the circuit board, microcontroller and voltage source. Side ports included for easy plugging of microcontroller to computer for easy debugging. 
