@@ -27,17 +27,11 @@ This project was aimed at designing and constructing a functional hd-TDCS device
     <img width="400" height='400' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_132242.jpg">
   </div>
 </div>
-<div class="container">
-  <div class="col-lg-6">
-    <h2>Column 1</h2>
-    <p>This is the first column. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac quam enim. Nullam semper sapien mauris, nec scelerisque lectus scelerisque vitae.</p>
-    <img src="image1.jpg" alt="Image 1">
-  </div>
-  <div class="col-lg-6">
-    <h2>Column 2</h2>
-    <p>This is the second column. Nulla facilisi. Nullam faucibus, enim et scelerisque scelerisque, lectus sem semper mauris, ac egestas eros mauris non tellus.</p>
-    <img src="image2.jpg" alt="Image 2">
-  </div>
+<div class="row">
+  <div class="col-md-6">
+    </div>
+  <div class="col-md-6">
+    </div>
 </div>
 #### Final prototype case
 The case is to contain the circuit board, microcontroller and voltage source. Side ports included for easy plugging of microcontroller to computer for easy debugging. 
