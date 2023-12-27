@@ -20,23 +20,21 @@ The insert below is a screen shot of the main function of the circuit on falstad
 
 #### Lab implementation
 The image below is the soldered version in the lab. We verified the output volage from the DAC to the bases of the transistors. Practically the input DC voltage should be kept at 9V so we included a 9V regulator and supplied >9V.
-<div><img width="400" height='400' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_132242.jpg"></div>
+<div><img width="200" height='200' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_132242.jpg"></div>
 
 
 #### Final prototype case
 The case is to contain the circuit board, microcontroller and voltage source. Side ports included for easy plugging of microcontroller to computer for easy debugging. 
-<div><img width="400" height='400' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_131836.jpg"></div>
+<div><img width="200" height='200' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_131836.jpg"></div>
 
 ## AutoCad Designs
-
-<img width="575" alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/26ea31f6-04b6-40bc-bce3-037ba039e351">
 #### The electrode and gel holder from conception to CAD design to 3D printing.
+<img width="575" alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/26ea31f6-04b6-40bc-bce3-037ba039e351">
+
 
 ## [Simibs](https://simnibs.github.io/simnibs/build/html/index.html) Current Distribution Simulation MRI scans.
 #### Simnibs is an open surce software for non-invasive brain stimulation(TMS-Transcranila Magnetic Stimulation and TDCS-Transcranial Direct Current Stimulation) simulation.
 <img width="657" alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/dc169371-f0ac-4a6d-b721-7feee4cc358e">
-
-
 
 
 ## Contributors
