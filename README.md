@@ -1,4 +1,4 @@
-# hdtdcs
+# HIGH-DEFINITION TRANSCRANIAL DIRECT CURRENT STIMULATION (hdtdcs) DEVICE DESIGN AND IMPLEMENTATION. (TÜBİTAK)
 Circiut design showing major componets and functionality.
 <img width="629" alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/1c6b481b-cdff-43a4-86cc-d5f011dc6241">
 
