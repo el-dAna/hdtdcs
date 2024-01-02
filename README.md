@@ -7,8 +7,7 @@ This project was aimed at designing and constructing a functional hd-TDCS device
 ## What is TDCS
 
 
-## Wwhat is hd-TDCS
-
+## What is hd-TDCS
 
 ## Advantages of hd-TDCS
 
