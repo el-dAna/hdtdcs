@@ -17,6 +17,9 @@ This project was aimed at designing and constructing a functional hd-TDCS device
 The insert below is a screen shot of the main function of the circuit on falstad. It shows the major components: 9V DC voltage source, 12bit DAC and transistors. We implemeented a 6 electrode hdTDCS (1 anode+ and 5 cathodes-) for the potential application in the treatment of drug resistant focal epilepsy. The point at which the 6 wires meet is the practical position of the head. As shown, current through the cathodes is 2mA and total current through anode is 10mA approx. 
 <div><img width="500" height='300' alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/13396a92-639d-459b-9cb6-50d0206788a3"></div>
 
+#### Circuit Schematic and EASY EDA 3D PCB design.
+<img width="609" alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/759765dd-508c-41cd-8d0b-5b0bee9b8c74">
+
 #### Lab implementation
 The image below is the soldered version in the lab. We verified the output volage from the DAC to the bases of the transistors. Practically the input DC voltage should be kept at 9V so we included a 9V regulator and supplied >9V.
 <div><img width="200" height='200' alt="image" src="https://github.com/el-dAna/hdtdcs/blob/main/images/20230921_132242.jpg"></div>
@@ -32,8 +35,6 @@ The case is to contain the circuit board, microcontroller and voltage source. Si
 
 #### The head strio and electrode holder CAD designs.
 <img width="609" alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/4024b09a-8322-4942-9dea-f599288a7982">
-
-
 
 ## [Simibs](https://simnibs.github.io/simnibs/build/html/index.html) Current Distribution Simulation MRI scans.
 #### Simnibs is an open surce software for non-invasive brain stimulation(TMS-Transcranila Magnetic Stimulation and TDCS-Transcranial Direct Current Stimulation) simulation.
