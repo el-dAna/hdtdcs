@@ -29,6 +29,9 @@ The case is to contain the circuit board, microcontroller and voltage source. Si
 ## AutoCad Designs
 #### The electrode and gel holder from conception to CAD design to 3D printing.
 <img width="609" alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/28434324-e294-4d12-838c-fd571a066e4e">
+#### The head strio and electrode holder CAD designs.
+<img width="609" alt="image" src="https://github.com/el-dAna/hdtdcs/assets/100404513/4024b09a-8322-4942-9dea-f599288a7982">
+
 
 
 ## [Simibs](https://simnibs.github.io/simnibs/build/html/index.html) Current Distribution Simulation MRI scans.
